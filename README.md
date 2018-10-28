@@ -2,6 +2,27 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
+## App contains the following examples
+
+Dev Environment Setup Including Node.js, Visual Studio Code & Git Bash
+Angular CLI Setup & Build
+File Structure & Dependency Examination
+TypeScript Intro
+Components
+Modules & NgModule
+Data Binding & String Interpolation
+Types & Interfaces
+Template Syntax
+ngIf & ngFor Conditional Directives
+ngFor & Loops
+Property Binding, ngClass & ngStyle
+Pipes
+Events & Forms
+ngModel & 2 Way Binding
+Services
+Observables & Http
+Angular Router
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
